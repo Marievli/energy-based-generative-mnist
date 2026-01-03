@@ -71,3 +71,40 @@ Evaluation is performed visually in the notebook through:
 3. Denoising experiments at multiple noise levels  
 
 These evaluations directly probe whether the learned energy landscape captures the MNIST data manifold.
+
+
+---
+
+## How to Run
+
+### Install dependencies
+
+pip install -r requirements.txt
+
+
+### Train model
+python main.py
+
+
+### Evaluate and visualize
+Open notebook.ipynb to:
+Load trained checkpoints
+Generate samples
+Perform denoising experiments
+Visualize results
+
+---
+
+## Notes.
+
+This repository corresponds only to Question 1 (Energy-Based Models).
+Score-Based Models (Question 2) are not included.
+The written report (submitted separately) contains the theoretical analysis and experimental discussion.
+
+---
+
+## References
+
+LeCun et al., A Tutorial on Energy-Based Learning, 2006
+Hinton, Training Products of Experts by Minimizing Contrastive Divergence, 2002
+Du & Mordatch, Implicit Generation and Modeling with Energy-Based Models, 2019
