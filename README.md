@@ -105,6 +105,6 @@ The written report (submitted separately) contains the theoretical analysis and 
 
 ## References
 
-LeCun et al., A Tutorial on Energy-Based Learning, 2006
-Hinton, Training Products of Experts by Minimizing Contrastive Divergence, 2002
-Du & Mordatch, Implicit Generation and Modeling with Energy-Based Models, 2019
+- LeCun et al., A Tutorial on Energy-Based Learning, 2006
+- Hinton, Training Products of Experts by Minimizing Contrastive Divergence, 2002
+- Du & Mordatch, Implicit Generation and Modeling with Energy-Based Models, 2019
